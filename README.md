@@ -1,2 +1,2 @@
 # Bot
-Gamer Bot
+The best Gamer Bot
